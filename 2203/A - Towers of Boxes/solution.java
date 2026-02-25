@@ -1,0 +1,1 @@
+import java.util.*;import java.lang.*;import java.io.*; public class Codechef{	public static void main (String[] args) throws java.lang.Exception	{Scanner sc=new Scanner(System.in);int t=sc.nextInt();while(t-->0){    int n=sc.nextInt();    int m=sc.nextInt();    int d=sc.nextInt();        int p=d/m+1;      int k=(n+p-1)/p;        System.out.println(k);}	}}
