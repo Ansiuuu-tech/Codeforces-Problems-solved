@@ -6,17 +6,24 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 3 |
+| 2 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [games](#games) (1)
 - [math](#math) (1)
 - [number theory](#number-theory) (1)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | Unrated | [Java 21](https://github.com/Ansiuuu-tech/Codeforces-Problems-solved/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.java) |
 
 ### games
 
