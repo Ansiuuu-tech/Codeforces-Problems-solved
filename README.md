@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 4 |
+| 3 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (1)
+- [Uncategorized](#uncategorized) (2)
 - [games](#games) (1)
 - [math](#math) (1)
 - [number theory](#number-theory) (1)
@@ -24,6 +24,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | Unrated | [Java 21](https://github.com/Ansiuuu-tech/Codeforces-Problems-solved/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.java) |
+| 2257B | [Gigantomachy](https://codeforces.com/contest/2257/problem/B) | Unrated | [Java 21](https://github.com/Ansiuuu-tech/Codeforces-Problems-solved/blob/HEAD/2257/B%20-%20Gigantomachy/solution.java) |
 
 ### games
 
